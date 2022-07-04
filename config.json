@@ -7,7 +7,7 @@
       "link": "https://ipsaya.com/hostinglokasi.php",
       "contact": "https://www.tiktok.com/@metadigital.az",
       
-      "addon": true,
+      "addon": false
       "maps": false,
       "texture": false,
       "skin": true,
@@ -64,28 +64,28 @@
     "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Screenshot_1.jpg"
   },
   {
-    "id": 1,
+    "id": 2,
     "name_skin": "truck",
-    "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Screenshot_1.jpg",
-    "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Stream-ST_Skin Nitteberg.png",
-    "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Screenshot_1.jpg",
-    "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Screenshot_1.jpg"
+    "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/2/1.png",
+    "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/2/Man-TGA-Lion.png",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/2/1.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/2/1.png"
   },
   {
-    "id": 1,
-    "name_skin": "truck",
-    "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Screenshot_1.jpg",
-    "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Stream-ST_Skin Nitteberg.png",
-    "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Screenshot_1.jpg",
-    "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Screenshot_1.jpg"
+    "id": 3,
+    "name_skin": "Skin Scania S Grafite V8 Edition - TRUCKERS OF EUROPE 3",
+    "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/3/3.png",
+    "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/3/Stream s grafite v8 edition.png (2).png",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/3/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/3/1.png"
   },
   {
-    "id": 1,
-    "name_skin": "truck",
-    "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Screenshot_1.jpg",
-    "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Stream-ST_Skin Nitteberg.png",
-    "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Screenshot_1.jpg",
-    "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/1/Screenshot_1.jpg"
+    "id": 4,
+    "name_skin": "Skin Man TGA Black - Truckers of Europe 3",
+    "view_skin": "https://kossandroid.com/Data Android/Truckers of Europe 3/4/3.png",
+    "skin_url": "https://kossandroid.com/Data Android/Truckers of Europe 3/4/Man TGA Preto.png.png",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Truckers of Europe 3/4/3.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Truckers of Europe 3/4/1.png"
   }
   ],
   "More":
